@@ -10,6 +10,11 @@
   <a href = "https://github.com/liviamrocha"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = 30></a>
 </p>
 
+<h3> About me </h3>
+<p>
+I am a graduate student in Computer Science at the Federal University of Paraíba. Currently, I work as a junior software engineer at Indra Company. I have experience mainly with the Python language for web development (Django, Flask), automation processes and web scrapping (Selenium), consumption of REST APIs, as well as pipeline development for data extraction and processing. In addition, I have knowledge and experience in SQL to perform operations in relational database (SQL Server) and knowledge in containerization of services with Docker. Furthermore, I have experience with version control systems (Git, Github, Bitbucket) and teamwork following agile methodologies (SCRUM).
+</p>
+
 ### Skills
 <table>
     <tr>
