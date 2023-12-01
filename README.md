@@ -1,7 +1,5 @@
 <h2 align="center"> Hey, I'm Lívia Rocha! </h2>
 
-<p align="center"><a href = "#"><img src = "gifs/intro.gif" alt = "Hey, I'm Lívia Rocha!" height=400 /></a></p>
-
 <p align="center">
   <!-- a href = "https://github.com/sponsors/Progyan1997"><img src = "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" height = 30></a-->
   <a href = "mailto:livianmrocha@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
