@@ -10,7 +10,7 @@
 
 <h3> About me </h3>
 <p>
-I am a graduate student in Computer Science at the Federal University of Paraíba. Currently, I work as a junior software engineer at Indra Company. I have experience mainly with the Python language for web development (Django, Flask), automation processes and web scrapping (Selenium), consumption of REST APIs, as well as pipeline development for data extraction and processing. In addition, I have knowledge and experience in SQL to perform operations in relational database (SQL Server) and knowledge in containerization of services with Docker. Furthermore, I have experience with version control systems (Git, Github, Bitbucket) and teamwork following agile methodologies (SCRUM).
+Currently, I work as a Software Engineer with solid experience in data engineering and backend development. I develop pipelines for data extraction and processing using Python and Spark, and manage workflows with Airflow. My expertise includes working with relational databases like SQL Server and PostgreSQL, and NoSQL databases such as MongoDB and Redis. I have in-depth knowledge of using AWS cloud services, including EC2, RDS, S3, Lambda, SNS, SQS, and EMR. Additionally, I have experience in creating and consuming REST APIs using frameworks like Django, Flask, and FastAPI. I possess skills in automation and web scraping with Selenium, am competent in containerizing services with Docker, and proficient in code control and versioning using Git, Bitbucket, and GitHub. Furthermore, I have experience working in a team environment following agile methodologies like SCRUM.
 </p>
 
 ### Skills
